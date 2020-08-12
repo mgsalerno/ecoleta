@@ -96,6 +96,8 @@ To verify if the installation was successful, just type `expo --version` to get 
 
 ## Development setup
 
+To run the application and/or start working on it, you first have to set up the development environment.
+
 ### Installing dependencies
 
 In the folders `server`, `web` and `mobile`, execute the following command to install all dependencies of the project:
